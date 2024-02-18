@@ -15,30 +15,3 @@
 Judge0 IDE is using [**Judge0**](https://api.judge0.com) for executing user's source code.
 
 Visit https://ide.judge0.com, enjoy and happy coding. :)
-
-## Community
-Do you have a question, feature request or something else on your mind?
-Or you just want to follow Judge0 news?
-Check out these links:
-
-* [Subscribe to Judge0 newsletter](https://subscribe.judge0.com)
-* [Join a Discord server](https://discord.gg/6dvxeA8)
-* [Watch asciicasts](https://asciinema.org/~hermanzdosilovic)
-* [Report an issue](https://github.com/judge0/api/issues/new)
-* [Contact the author](https://github.com/hermanzdosilovic)
-* [Get free online support](https://judge0.appointlet.com)
-* [Schedule an online meeting with the author](https://judge0.appointlet.com)
-
-## Author and Contributors
-Judge0 IDE was created by [Herman Zvonimir Došilović](https://github.com/hermanzdosilovic).
-
-Thanks a lot to all [contributors](https://github.com/judge0/ide/graphs/contributors) for their contributions in this project.
-
-## Supporters
-Thanks a lot to all my [Patrons](https://www.patreon.com/hermanzdosilovic) and [PayPal](https://paypal.me/hermanzdosilovic) donors that supported Judge0 development. Thank you! ♥
-
-## Donate
-Your are more than welcome to support Judge0 development on [Patreon](https://www.patreon.com/hermanzdosilovic), via [PayPal](https://paypal.me/hermanzdosilovic) or [Revolut](https://pay.revolut.com/profile/hermancy5).
-
-## License
-Judge0 IDE is licensed under the [MIT License](https://github.com/judge0/ide/blob/master/LICENSE).
